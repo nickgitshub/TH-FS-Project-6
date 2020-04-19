@@ -1,0 +1,47 @@
+[
+	{
+		"id": 0,
+		"project_name": "Random Quote Generator",
+		"description": "Provides Anchorman Quotes",
+		"technologies": ["Javascript", "Object-Oriented Programming"], 
+		"live_link": "#",
+		"github_link": "https://github.com/nickgitshub/TH-FS-Project-1",
+		"image_urls": ["https://placehold.it/550x550", "https://placehold.it/550x550"]
+	},
+	{
+		"id": 1,
+		"project_name": "Anchorman Phrase Hunter",
+		"description": "Guess Anchorman Quotes",
+		"technologies": ["Javascript"], 
+		"live_link": "#",
+		"github_link": "https://github.com/nickgitshub/TH-FS-Project-4/",
+		"image_urls": ["https://placehold.it/550x550"]
+	},
+	{
+		"id": 2,
+		"project_name": "Employee Directory",
+		"description": "Create an employee directory using the",
+		"technologies": ["Javascript"], 
+		"live_link": "#",
+		"github_link": "https://github.com/nickgitshub/TH-FS-Project-5",
+		"image_urls": ["https://placehold.it/550x550"]
+	},
+	{
+		"id": 3,
+		"project_name": "Student Directory",
+		"description": "A paginated and searchable director of students the randomuser.me API",
+		"technologies": ["Javascript"], 
+		"live_link": "#",
+		"github_link": "https://github.com/nickgitshub/TH-FS-Project-2",
+		"image_urls": ["https://placehold.it/550x550"]
+	},
+	{
+		"id": 4,
+		"project_name": "Registration Form",
+		"description": "Registration Form for Fullstack Conference",
+		"technologies": ["Javascript"], 
+		"live_link": "#",
+		"github_link": "https://github.com/nickgitshub/TH-FS-Project-3",
+		"image_urls": ["https://placehold.it/550x550"]
+	}
+]
