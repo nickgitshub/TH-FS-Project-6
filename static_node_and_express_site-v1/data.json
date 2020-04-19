@@ -3,45 +3,61 @@
 		"id": 0,
 		"project_name": "Random Quote Generator",
 		"description": "Provides Anchorman Quotes",
-		"technologies": ["Javascript", "Object-Oriented Programming"], 
-		"live_link": "#",
+		"technologies": ["Javascript", "Object-Oriented Programming", "CSS"], 
+		"live_link": "https://thfs.s3-us-west-2.amazonaws.com/TH-FS-Project-1/index.html",
 		"github_link": "https://github.com/nickgitshub/TH-FS-Project-1",
-		"image_urls": ["https://placehold.it/550x550", "https://placehold.it/550x550"]
+		"image_urls": ["/static/images/p1/p1Image1.png",
+						"/static/images/p1/p1Image2.png",
+						"/static/images/p1/p1Image3.png"],
+		"landing_page_url": "/static/images/p1/p1LandingPage.png"
+
 	},
 	{
 		"id": 1,
 		"project_name": "Anchorman Phrase Hunter",
 		"description": "Guess Anchorman Quotes",
-		"technologies": ["Javascript"], 
-		"live_link": "#",
+		"technologies": ["Javascript", "CSS"], 
+		"live_link": "https://thfs.s3-us-west-2.amazonaws.com/TH-FS-Project-4/oop_game-v2/index.html",
 		"github_link": "https://github.com/nickgitshub/TH-FS-Project-4/",
-		"image_urls": ["https://placehold.it/550x550"]
+		"image_urls": ["/static/images/p4/p4Image1.png",
+						"/static/images/p4/p4Image2.png",
+						"/static/images/p4/p4Image3.png"],
+		"landing_page_url": "/static/images/p4/p4LandingPage.png"
 	},
 	{
 		"id": 2,
 		"project_name": "Employee Directory",
-		"description": "Create an employee directory using the",
-		"technologies": ["Javascript"], 
-		"live_link": "#",
+		"description": "Creates an employee directory using the",
+		"technologies": ["Javascript", "API-Driven Development", "Object-Oriented Programming"], 
+		"live_link": "https://thfs.s3-us-west-2.amazonaws.com/TH-FS-Project-5/public_api_request-v1/index.html",
 		"github_link": "https://github.com/nickgitshub/TH-FS-Project-5",
-		"image_urls": ["https://placehold.it/550x550"]
+		"image_urls": ["/static/images/p5/p5Image1.png",
+						"/static/images/p5/p5Image2.png",
+						"/static/images/p5/p5Image3.png"],
+		"landing_page_url": "/static/images/p5/p5LandingPage.png"
 	},
 	{
 		"id": 3,
 		"project_name": "Student Directory",
 		"description": "A paginated and searchable director of students the randomuser.me API",
 		"technologies": ["Javascript"], 
-		"live_link": "#",
+		"live_link": "https://thfs.s3-us-west-2.amazonaws.com/TH-FS-Project-2/list_pagination_and_filtering-v1/index.html",
 		"github_link": "https://github.com/nickgitshub/TH-FS-Project-2",
-		"image_urls": ["https://placehold.it/550x550"]
+		"image_urls": ["/static/images/p2/p2Image1.png",
+						"/static/images/p2/p2Image2.png",
+						"/static/images/p2/p2Image3.png"],
+		"landing_page_url": "/static/images/p2/p2LandingPage.png"
 	},
 	{
 		"id": 4,
 		"project_name": "Registration Form",
 		"description": "Registration Form for Fullstack Conference",
-		"technologies": ["Javascript"], 
-		"live_link": "#",
+		"technologies": ["Javascript", "API-Driven Development"], 
+		"live_link": "https://thfs.s3-us-west-2.amazonaws.com/TH-FS-Project-3/interactive-form-v2/index.html",
 		"github_link": "https://github.com/nickgitshub/TH-FS-Project-3",
-		"image_urls": ["https://placehold.it/550x550"]
+		"image_urls": ["/static/images/p3/p3Image1.png",
+						"/static/images/p3/p3Image2.png",
+						"/static/images/p3/p3Image3.png"],
+		"landing_page_url": "/static/images/p3/p3LandingPage.png"
 	}
 ]
