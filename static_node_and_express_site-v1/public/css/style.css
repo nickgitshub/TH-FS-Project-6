@@ -3,6 +3,10 @@ h1,h2,h3,h4,h5,p{
   font-family: 'Merriweather', serif;
 }
 
+  h1{
+    font-family: 'Merriweather Sans', serif;
+  }
+
   h5{
     font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     letter-spacing: 2.5px;
@@ -46,6 +50,10 @@ a:hover{
   color: #111;
 }
 
+.thumbnail{
+  border-radius: 10px;
+}
+
 .image{
   display: inline-block;
   max-width: 100%;
@@ -54,7 +62,9 @@ a:hover{
   border-radius: 0;
   box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
   line-height: 0;
+  border-radius: 10px;
 }
+
 
 .portfolio-me{
   padding: 20px;
@@ -71,7 +81,7 @@ a:hover{
   .portfolio-me a{
     font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: 600;
-    color: #555;
+    color: #fff;
     font-size: 13px;
     letter-spacing: 2.5px;
     -webkit-text-transform: uppercase;
@@ -114,6 +124,8 @@ a:hover{
 
   .portfolio-index .thumbnail{
     margin-bottom: 5px;
+    padding: .25em;
+    border: .25em double; 
   }
 
   .portfolio-index a{
@@ -122,6 +134,7 @@ a:hover{
 
   .portfolio-index .cell{
     margin-bottom: 15px;
+    
   }
 
     .portfolio-index .cell h5{
